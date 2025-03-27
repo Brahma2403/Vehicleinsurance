@@ -1,0 +1,9 @@
+C:\Users\2387547\OneDrive - Cognizant\Documents\customerDA_Lib\customerBO_Lib\obj\Debug\customerBO_Lib.csproj.AssemblyReference.cache
+C:\Users\2387547\OneDrive - Cognizant\Documents\customerDA_Lib\customerBO_Lib\obj\Debug\customerBO_Lib.csproj.CoreCompileInputs.cache
+C:\Users\2387547\OneDrive - Cognizant\Documents\customerDA_Lib\customerBO_Lib\bin\Debug\customerBO_Lib.dll
+C:\Users\2387547\OneDrive - Cognizant\Documents\customerDA_Lib\customerBO_Lib\bin\Debug\customerBO_Lib.pdb
+C:\Users\2387547\OneDrive - Cognizant\Documents\customerDA_Lib\customerBO_Lib\bin\Debug\customerDA_Lib.dll
+C:\Users\2387547\OneDrive - Cognizant\Documents\customerDA_Lib\customerBO_Lib\bin\Debug\customerDA_Lib.pdb
+C:\Users\2387547\OneDrive - Cognizant\Documents\customerDA_Lib\customerBO_Lib\obj\Debug\customer.CA1F6918.Up2Date
+C:\Users\2387547\OneDrive - Cognizant\Documents\customerDA_Lib\customerBO_Lib\obj\Debug\customerBO_Lib.dll
+C:\Users\2387547\OneDrive - Cognizant\Documents\customerDA_Lib\customerBO_Lib\obj\Debug\customerBO_Lib.pdb

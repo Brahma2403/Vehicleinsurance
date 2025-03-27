@@ -1,0 +1,12 @@
+C:\Users\2387547\OneDrive - Cognizant\Documents\customerDA_Lib\customerApp\obj\Debug\customerApp.csproj.AssemblyReference.cache
+C:\Users\2387547\OneDrive - Cognizant\Documents\customerDA_Lib\customerApp\obj\Debug\customerApp.csproj.CoreCompileInputs.cache
+C:\Users\2387547\OneDrive - Cognizant\Documents\customerDA_Lib\customerApp\bin\Debug\customerApp.exe.config
+C:\Users\2387547\OneDrive - Cognizant\Documents\customerDA_Lib\customerApp\bin\Debug\customerApp.exe
+C:\Users\2387547\OneDrive - Cognizant\Documents\customerDA_Lib\customerApp\bin\Debug\customerApp.pdb
+C:\Users\2387547\OneDrive - Cognizant\Documents\customerDA_Lib\customerApp\bin\Debug\customerDA_Lib.dll
+C:\Users\2387547\OneDrive - Cognizant\Documents\customerDA_Lib\customerApp\bin\Debug\customerBO_Lib.pdb
+C:\Users\2387547\OneDrive - Cognizant\Documents\customerDA_Lib\customerApp\bin\Debug\customerDA_Lib.pdb
+C:\Users\2387547\OneDrive - Cognizant\Documents\customerDA_Lib\customerApp\obj\Debug\customer.D58EB783.Up2Date
+C:\Users\2387547\OneDrive - Cognizant\Documents\customerDA_Lib\customerApp\obj\Debug\customerApp.exe
+C:\Users\2387547\OneDrive - Cognizant\Documents\customerDA_Lib\customerApp\obj\Debug\customerApp.pdb
+C:\Users\2387547\OneDrive - Cognizant\Documents\customerDA_Lib\customerApp\bin\Debug\customerBO_Lib.dll
